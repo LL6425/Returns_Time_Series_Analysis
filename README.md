@@ -8,17 +8,17 @@ Assignment:
 
 Main files:
 (The code for the analysis is the same while the comments are not)
--TSA_Visa.m
--TSA_BerkHat.m
+- TSA_Visa.m
+- TSA_BerkHat.m
 
 Time series files (from Yahoo Finance):
--V.csv
--BRK-B.csv
+- V.csv
+- BRK-B.csv
 
 Functions files:
--fil.m
--filter_scale.m
--lllh.m
--l_like.m
+- fil.m
+- filter_scale.m
+- lllh.m
+- l_like.m
 
 
