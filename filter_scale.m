@@ -1,17 +1,12 @@
 function [lambda, loglik] = filter_scale(data, phi, nu, mu, delta, theta)
 
-% This function gives the filter for estimating the conditional (log-)scale of a 
+% This function provides the filter for estimating the conditional (log-)scale of a 
 % score driven model for the location - in particolar for a Beta-t-EGARCH model where the 
-% scale is the exponential of a time varying parameter lambda 
-% and specifies the likelihood function to be maximised  
+% scale is the exponential of a time varying parameter lambda  
 
 % input: the data and the static parameters associated with the model 
-% typically the static parameters associated with the conditional
-% distrubution assumed as a data generating process plus tthe static
-% parameters that characterise the filtering recursion 
-% 
-% note that No initial condition for lambda is required as an input: we
-% shall fix it here in the function file 
+
+
 
 T = length(data);
 
