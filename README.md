@@ -6,7 +6,7 @@ University of Bologna, 2022, Statistical Methods for Asset Management course
 Assignment:
 "Analyse time series at your choice. Be sure you make a complete analysis, from the preliminary analysis to the diagnostics discussing the phenomenon you are focusing on."
 
-#Files
+# Files
 
 Main files:
 (The code for the analysis is the same while the comments are not)
@@ -23,7 +23,7 @@ Functions files:
 - lllh.m
 - l_like.m
 
-#Analysis
+# Analysis
 
 Preliminary Analysis:
 - Prices Time Series 
