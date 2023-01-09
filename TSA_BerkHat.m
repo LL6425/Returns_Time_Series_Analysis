@@ -1,7 +1,3 @@
-% Assignment: Analyse one time series at your choice. Be sure you make a complete analysis, from the
-%  preliminary analysis to the diagnostics discussing the phenomenon you
-%  are focusing on.
-
 % Time series selected : Berkshire Hathaway stock
 
 % 0. Clean the work space and Import the data
